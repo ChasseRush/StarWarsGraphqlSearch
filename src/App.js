@@ -15,7 +15,11 @@ function App() {
     <ApolloProvider client={client}>
       <BrowserRouter>
         <div className="content">
-          <Route path="/" exact component={SWLookupContainer} />
+          <Route
+            path="/StarWarsGraphqlSearch"
+            exact
+            component={SWLookupContainer}
+          />
         </div>
       </BrowserRouter>
     </ApolloProvider>
