@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/StarWarsGraphqlSearch/static/css/main.f1509909.chunk.css",
+    "main.js": "/StarWarsGraphqlSearch/static/js/main.5e773605.chunk.js",
+    "main.js.map": "/StarWarsGraphqlSearch/static/js/main.5e773605.chunk.js.map",
+    "runtime-main.js": "/StarWarsGraphqlSearch/static/js/runtime-main.c1042436.js",
+    "runtime-main.js.map": "/StarWarsGraphqlSearch/static/js/runtime-main.c1042436.js.map",
+    "static/js/2.52a99053.chunk.js": "/StarWarsGraphqlSearch/static/js/2.52a99053.chunk.js",
+    "static/js/2.52a99053.chunk.js.map": "/StarWarsGraphqlSearch/static/js/2.52a99053.chunk.js.map",
+    "index.html": "/StarWarsGraphqlSearch/index.html",
+    "precache-manifest.f45bafd02721b1fbef34602837c8c3f5.js": "/StarWarsGraphqlSearch/precache-manifest.f45bafd02721b1fbef34602837c8c3f5.js",
+    "service-worker.js": "/StarWarsGraphqlSearch/service-worker.js",
+    "static/css/main.f1509909.chunk.css.map": "/StarWarsGraphqlSearch/static/css/main.f1509909.chunk.css.map",
+    "static/js/2.52a99053.chunk.js.LICENSE.txt": "/StarWarsGraphqlSearch/static/js/2.52a99053.chunk.js.LICENSE.txt",
+    "static/media/ANH.jpg": "/StarWarsGraphqlSearch/static/media/ANH.3be6e68f.jpg",
+    "static/media/Obi-wan.jpg": "/StarWarsGraphqlSearch/static/media/Obi-wan.d9d3d588.jpg",
+    "static/media/Star_Wars_Death Star.svg": "/StarWarsGraphqlSearch/static/media/Star_Wars_Death Star.cf88e207.svg",
+    "static/media/Star_Wars_Falcon.svg": "/StarWarsGraphqlSearch/static/media/Star_Wars_Falcon.513ef4a0.svg",
+    "static/media/chewy.jpg": "/StarWarsGraphqlSearch/static/media/chewy.07bee404.jpg",
+    "static/media/logo.svg": "/StarWarsGraphqlSearch/static/media/logo.5d5d9eef.svg",
+    "static/media/x-wing2.jpeg": "/StarWarsGraphqlSearch/static/media/x-wing2.f2881ec0.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1042436.js",
+    "static/js/2.52a99053.chunk.js",
+    "static/css/main.f1509909.chunk.css",
+    "static/js/main.5e773605.chunk.js"
+  ]
+}
