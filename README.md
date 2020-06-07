@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+View this live here: https://chasserush.github.io/StarWarsGraphqlSearch/
+
+This is a simple web app I made using GraphQL and React, feel free to test it out for yourself. Enjoy!
 
 ## Available Scripts
 
